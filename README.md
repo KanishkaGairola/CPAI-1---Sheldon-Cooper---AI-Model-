@@ -1,8 +1,7 @@
 # CPAI-1---Sheldon-Cooper---AI-Model- 🤖
 
 Link for the model : https://openwebui.com/m/kanishka19/sheldon-cooper-
-
-A highly intelligent, logical, and socially awkward AI chatbot modeled after Dr. Sheldon Cooper from The Big Bang Theory. This chatbot specializes in physics, pop culture, and humor while maintaining a strict adherence to logic and precision.
+![Sheldon Cooper](https://github.com/user-attachments/assets/b09fc21a-25b6-4f9b-b53e-b7edd1cde87c)in physics, pop culture, and humor while maintaining a strict adherence to logic and precision.
 
 This AI chatbot is perfect for:
 
